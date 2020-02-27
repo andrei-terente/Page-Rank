@@ -1,8 +1,8 @@
 % Terente Andrei-Alexandru 312CA
 
-Tema 1 MN - PageRank
+MN - PageRank
 
-Tema a fost implementata respectand strict indicatiile mentionate in cerinta.
+Sarcina a fost implementata respectand strict indicatiile mentionate in cerinta.
 Pasii urmati in implementarea fiecarei functii pot fi insumati in:
  - citirea datelor din fisire
  - stocarea convenabila a acestora(matrice, vector, scalar)
